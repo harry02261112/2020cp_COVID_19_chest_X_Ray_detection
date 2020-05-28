@@ -23,12 +23,11 @@ This is a Kaggle dataset that contains normal and general pneumonia chest X-ray 
 * COVID chest X-ray Dataset
 (https://github.com/ieee8023/covid-chestxray-dataset)
 This is a GitHub dataset that contains hundreds of COVID-19 patients chest X-ray images. 
-
-The sources of this dataset are :
-1. Radiopaedia ( https://radiopaedia.org/ ) : 
-A wiki-based international collaborative radiology educational web resource.
-2. SIRM ( https://www.sirm.org/en/ ) : The Italian radiology organization. 
-3. Eurorad ( https://www.eurorad.org/ ): The European radiology organization.
+    * The sources of this dataset are :
+        1. Radiopaedia ( https://radiopaedia.org/ ) : 
+            A wiki-based international collaborative radiology educational web resource.
+        2. SIRM ( https://www.sirm.org/en/ ) : The Italian radiology organization. 
+        3. Eurorad ( https://www.eurorad.org/ ): The European radiology organization.
 
 ### code
 
