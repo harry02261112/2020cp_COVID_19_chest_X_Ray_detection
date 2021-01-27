@@ -32,7 +32,7 @@ This is a GitHub dataset that contains hundreds of COVID-19 patients chest X-ray
 ### code
 
 * Methods :
-    * VGG, ResNet, CheXNet
+    * VGG, ResNet, CheXNet, InceptionV4, DenseNet121
 * Perform evaluation:
     * Cross-validation
 
