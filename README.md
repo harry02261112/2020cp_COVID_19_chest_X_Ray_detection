@@ -38,4 +38,6 @@ This is a GitHub dataset that contains hundreds of COVID-19 patients chest X-ray
 
 ### results
 
+![Alt text](fdacc.png?raw=true)
+
 ## Reference
