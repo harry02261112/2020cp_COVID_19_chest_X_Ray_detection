@@ -3,7 +3,7 @@
 ### Groups
 * < Lai Yen-Ru, 賴彥儒, 105701027 >
 * < Lin Yu-Han, 林煜翰, 105701037 >
-* < Huang Chen-Tang, 黃乾塘, 105701004 >
+* < Huang Chien-Tang, 黃乾塘, 105701004 >
 * < 黃郁軒, 106703049 >
 
 ### Abstract 
